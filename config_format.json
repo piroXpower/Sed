@@ -1,11 +1,11 @@
 {
     "TOKEN": "5268526342:AAHkVzY1iN3P7YsRveaowJJ5-YutH0hEbbg",
     "ON9BOT_TOKEN": "5268526342:AAHkVzY1iN3P7YsRveaowJJ5-YutH0hEbbg",
-    "DB_URI": "",
+    "DB_URI": "postgresql://exgmbfti:5vLmyl-geddMXttgbd-8LbIzI--FZsLW@castor.db.elephantsql.com/exgmbfti",
     "PROVIDER_TOKEN": "",
-    "OWNER_ID": 69420,
-    "ADMIN_GROUP_ID": 69420,
-    "OFFICIAL_GROUP_ID": 69420,
+    "OWNER_ID": 5125042013,
+    "ADMIN_GROUP_ID": -1001686254401,
+    "OFFICIAL_GROUP_ID": -1001686254401,
     "WORD_ADDITION_CHANNEL_ID": 69420,
     "VIP": [],
     "VIP_GROUP": []
